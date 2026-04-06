@@ -1,12 +1,12 @@
 # AI Screenshot Attachment
 
-> A macOS browser-window screenshot utility for local AI agents, operator tooling, browser automation, evidence capture, and lightweight visual attachment workflows.
+> A macOS browser-window and app screenshot utility for local AI agents, operator tooling, browser automation, evidence capture, and lightweight visual attachment workflows.
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-macOS-black.svg)
 ![Shell](https://img.shields.io/badge/built%20with-Bash-121011?logo=gnu-bash)
 
-**AI Screenshot Attachment** is a small, practical command-line utility that captures the active window of a browser on macOS, optionally opens a URL first, and returns a generated image path that can be fed into downstream tooling.
+**AI Screenshot Attachment** is a small, practical command-line utility that captures the active window of a browser/app on macOS, optionally opens a URL first, and returns a generated image path that can be fed into downstream tooling.
 
 It is designed for setups where an AI assistant, local agent, QA script, browser workflow, or operator runtime needs a fast way to produce a screenshot attachment without a heavy GUI stack.
 
